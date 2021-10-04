@@ -1,0 +1,2 @@
+# checkout
+Página de checkout
